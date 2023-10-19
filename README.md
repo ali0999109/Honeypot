@@ -34,7 +34,53 @@
     
     ![image](https://github.com/ali0999109/Honeypot/assets/145396907/810753cf-0b6a-4119-bbe3-b62dadb08f83)
     ----
-    - Elasticvue
+    - Elasticvue shows you the utilization of the server by clicking Nodes
+      
+      ![image](https://github.com/ali0999109/Honeypot/assets/145396907/14bb1fa9-e31a-43a1-8437-5e37654158f0)
+      ---
+
+    -  Click on shards to see logtash collecting data logs
+      
+      ![image](https://github.com/ali0999109/Honeypot/assets/145396907/5fb141cb-d2a7-4956-a4b4-959f917012da)
+       ------
+    
+    # Kibana
+    - Click on kibana > Go to T-Pot for a comprehensive dashboard showing all attacks happening on the honeypots
+      
+      ![image](https://github.com/ali0999109/Honeypot/assets/145396907/5df15004-eee8-4415-bb7b-e625204c9ea1)
+      ----
+    - The bigger the word is it shows which attack is happening the most
+      
+      ![image](https://github.com/ali0999109/Honeypot/assets/145396907/f0d196f3-f3e2-4a9b-b036-8443cc2a7cbb)
+      ----
+    - It shows which passwords were used the most to bruteforce
+      
+      ![image](https://github.com/ali0999109/Honeypot/assets/145396907/0248bdf5-d8a8-41e5-85b2-ee18871264b1)
+      --
+    - CVES that were used to make attacks, you can click on them for more information
+    - 
+      ![image](https://github.com/ali0999109/Honeypot/assets/145396907/b044ad08-1b6a-466a-a31c-1c29aac7d25e)
+       -----
+      ![image](https://github.com/ali0999109/Honeypot/assets/145396907/5c80ba36-bab5-4936-a630-17d27637cca0)
+
+      # Spiderfoot
+      - Put in the target's ip address to get comprehensive information about them, you can use any from Kibana, Attack map, etc
+      
+        ![image](https://github.com/ali0999109/Honeypot/assets/145396907/907a68bb-910c-4ab9-baeb-40b777088fbb)
+        -----
+
+      
+
+
+    
+
+      
+
+      
+      
+
+    
+
       
 
   
