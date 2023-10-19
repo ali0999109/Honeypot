@@ -29,5 +29,13 @@
      ![image](https://github.com/ali0999109/Honeypot/assets/145396907/16ae3881-52ea-494f-b53f-1c2794542052)
      --------
   # How to discover threats with honeypot in real-time
+  - Click on attack map it will show attacks currently happening in real-time, their IP addresses, and locations. The color of the attack is connected to what service they are using to 
+    make the attacks
+    
+    ![image](https://github.com/ali0999109/Honeypot/assets/145396907/810753cf-0b6a-4119-bbe3-b62dadb08f83)
+    ----
+    - Elasticvue
+      
+
   
 
