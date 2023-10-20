@@ -64,7 +64,7 @@
       ![image](https://github.com/ali0999109/Honeypot/assets/145396907/5c80ba36-bab5-4936-a630-17d27637cca0)
 
       # Spiderfoot
-      - Put in the target's ip address to get comprehensive information about them, you can use any from Kibana, Attack map, etc
+      - Put in the target's ip address to get comprehensive information about them, you can use any IP address from Kibana, Attack map, etc
       
         ![image](https://github.com/ali0999109/Honeypot/assets/145396907/907a68bb-910c-4ab9-baeb-40b777088fbb)
         -----
